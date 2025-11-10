@@ -4,6 +4,12 @@
 
 The Bloch sphere is a geometric representation of a single-qubit quantum state. It provides a visual way to understand single-qubit quantum mechanics and the effects of quantum gates on qubit states.
 
+### Bloch Sphere Visualization
+
+![Bloch Sphere](https://user-images.githubusercontent.com/quantum-diagrams/bloch-sphere-diagram.png)
+
+*Bloch sphere showing quantum state |ψ⟩ represented by angles θ (polar) and φ (azimuthal). The computational basis states |0⟩, |1⟩ and superposition states are marked at key positions.*
+
 ### Key Points
 - A single-qubit state is represented as a point on the surface of a unit sphere
 - The sphere has radius 1 and is centered at the origin
