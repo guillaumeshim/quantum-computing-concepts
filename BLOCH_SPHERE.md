@@ -6,7 +6,7 @@ The Bloch sphere is a geometric representation of a single-qubit quantum state. 
 
 ### Bloch Sphere Visualization
 
-![Bloch Sphere](https://user-images.githubusercontent.com/quantum-diagrams/bloch-sphere-diagram.png)
+![Bloch Sphere]([https://user-images.githubusercontent.com/quantum-diagrams/bloch-sphere-diagram.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpublish.obsidian.md%2Fmyquantumwell%2FQuantum%2BMechanics%2FQuantum%2BInformation%2FBloch%2Bspheres&psig=AOvVaw1rOM3HunsL2QOaLwff2Yc4&ust=1762895551500000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCCnvq_6JADFQAAAAAdAAAAABAE))
 
 *Bloch sphere showing quantum state |ψ⟩ represented by angles θ (polar) and φ (azimuthal). The computational basis states |0⟩, |1⟩ and superposition states are marked at key positions.*
 
