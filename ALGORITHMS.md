@@ -11,7 +11,7 @@ Quantum algorithms leverage the principles of superposition, entanglement, and i
 Unstructured database search with quadratic speedup over classical algorithms.
 
 ### Complexity
-- **Quantum**: O(√N) - approximately √N iterations
+- **Quantum**: $O(\sqrt{N})$ - approximately $\sqrt{N}$ iterations
 - **Classical**: O(N) - linear time required
 - **Speedup**: 2x improvement for typical problems
 
