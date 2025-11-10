@@ -17,13 +17,13 @@ Quantum computing offers transformative potential across multiple industries. Th
 - Optimize multi-job scheduling environments
 
 **Hamiltonian Formulation:**
-```
-H = ∑_t c_t (T - t) + ∑_{i,j:conflict} P_{ij}
-```
+
+$$H = \sum_t * c_t * (T - t) + \sum_{i,j:conflict} * P_{ij}$$
+
 
 Where:
-- c_t: Cost associated with completing task at time t
-- P_{ij}: Penalty for conflicting tasks i and j scheduled simultaneously
+- $c_{t}$: Cost associated with completing task at time t
+- $P_{ij}$: Penalty for conflicting tasks i and j scheduled simultaneously
 
 **Quantum Approach:**
 - Encode task-time assignments as qubits
